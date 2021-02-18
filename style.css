@@ -1,0 +1,29 @@
+.main-wrapper {
+  width: 50%;
+  margin: 50px auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+body {
+  background-color: #0d0d0d;
+  color: #f2f2f2;
+}
+
+input {
+  background-color: #595959;
+  border: 2px solid #d9d9d9;
+  padding: 14px 28px;
+}
+
+#download {
+  margin-top: 30px;
+}
+
+a {
+  font-size: 18px;
+  color: #f2f2f2;
+  margin-bottom: 20px;
+}
